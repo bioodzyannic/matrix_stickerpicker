@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "lichttechnik.json"
+  ],
+  "homeserver_url": "https://matrix.tu-berlin.de"
+}
